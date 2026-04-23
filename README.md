@@ -10,6 +10,7 @@ Features
 - Display all contacts
 - File storage for permanent data saving
 
+
 Technologies Used
 
  - C Programming (Advanced C Concepts)
@@ -21,6 +22,6 @@ Technologies Used
 
  How to Run
  
- 1.Compile the program using: gcc *.c -o addressbook
- 2.Run the executable using: ./addressbook
+ - Compile the program using: gcc *.c -o addressbook
+ - Run the executable using: ./addressbook
  
