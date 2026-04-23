@@ -13,7 +13,7 @@ Features
 
 Technologies Used
 
- - C Programming (Advanced C Concepts)
+ - Advanced C
  - File Handling
  - Structures
  - Pointers
